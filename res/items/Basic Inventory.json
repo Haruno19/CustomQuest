@@ -1,0 +1,46 @@
+{
+    "0": 
+    { 
+        "name": "Potion", 
+        "MP Heal": 0,
+        "HP Heal": 10,
+        "DEF Buf": 0,
+        "ATK Buf": 0,
+        "MAG Buf": 0,
+        "desc": "Restore 10 HPs.",
+        "quantity": 1
+    },
+    "1":
+    { 
+        "name": "Mana drop", 
+        "MP Heal": 10,
+        "HP Heal": 0,
+        "DEF Buf": 0,
+        "ATK Buf": 0,
+        "MAG Buf": 0,
+        "desc": "Restore 10 MPs.",
+        "quantity": 1
+    },
+    "2":
+    { 
+        "name": "Bean", 
+        "MP Heal": -4,
+        "HP Heal": 0,
+        "DEF Buf": 0,
+        "ATK Buf": 5,
+        "MAG Buf": 5,
+        "desc": "Boost ATK and MAG",
+        "quantity": 1
+    },
+    "3":
+    { 
+        "name": "", 
+        "MP Heal": 0,
+        "HP Heal": 0,
+        "DEF Buf": 0,
+        "ATK Buf": 0,
+        "MAG Buf": 0,
+        "desc": "",
+        "quantity": 0
+    }
+}
