@@ -9,9 +9,10 @@ But it's not just that!
 
 Personalize your game with your custom profiles and try out different strategy, all in your terminal! 
 
-## Demo visuals
+## In-game look
 
-_Coming soon_
+https://user-images.githubusercontent.com/61376940/165341488-9e1f27c3-1ce8-411f-b817-a0f8f3f1dc18.mov
+
 
 ## Installation
 To install **CustomQuest**, run these commands:
