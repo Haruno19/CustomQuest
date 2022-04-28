@@ -296,7 +296,7 @@ void InitEntities(string* entities)
     if(filesystem::exists(path+"arts/"+entities[0]+".txt"))
         a.open(path+"arts/"+entities[0]+".txt");
     else
-        a.open(path+"arts/slime.txt");
+        a.open(path+"arts/Slime.txt");
     stringstream buffer;
     buffer << t.rdbuf(); t.close();
     screen = buffer.str();
